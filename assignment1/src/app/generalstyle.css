@@ -1,0 +1,33 @@
+h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;         
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  gap: 20px;  
+  background-color: #f0f0f0;
+}
+
+.page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;          
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  gap: 20px;              
+  flex-wrap: wrap;        
+}
+
+.questionItem {
+  padding: 10px 20px;
+  background-color: #0070f3;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  user-select: none;
+  transition: background-color 0.3s ease;
+  font-weight: 600;
+  font-size: 16px;
+}
+
