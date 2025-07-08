@@ -1,0 +1,41 @@
+.custom-btn{
+    font: 100;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    border: 0cap;
+    border-radius: 2px;
+
+}
+
+.primary{
+    color:white;
+    background-color: black;
+}
+
+.secondary{
+       color:green;
+       background-color: black;
+}
+
+.danger{
+      color:red;
+      background-color: black;
+}
+
+
+.open-modal-btn {
+  background-color: #1976d2;     
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 6px;
+  
+}
+
+.center-container {
+  display: flex;
+  justify-content: center; 
+  margin-top: 40px;        
+}
